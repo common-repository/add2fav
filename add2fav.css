@@ -1,0 +1,26 @@
+.add2favlink img {
+	margin-right: 3px;
+	cursor: pointer;
+}
+
+.add2favlink label {
+	cursor: pointer;
+}
+
+
+.add2favlist {
+	padding: 3px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.add2favlist ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.add2favlist ul li {
+	margin-bottom: 10px;
+}
+.add2favlist ul li img {
+	margin-right: 5px;
+}
